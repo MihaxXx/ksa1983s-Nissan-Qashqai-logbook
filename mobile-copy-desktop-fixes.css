@@ -1,0 +1,9 @@
+﻿@media (min-width: 600px) {
+  body {
+    align-items: center;
+  }
+
+  main {
+    max-width: 600px;
+  }
+}
